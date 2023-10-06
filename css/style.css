@@ -1,0 +1,7 @@
+.carousel-item{
+    filter: brightness(0.5);
+}
+
+html{
+    scroll-behavior: smooth;
+}
